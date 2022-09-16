@@ -1,2 +1,2 @@
 Projekt - registration of policyholde(evidence pojistníků)
-třídy jsem chtěl umístit do složky zvlášť ,ale nepřišel jsem na to jak toho docílit tady na GitHubu... 
+třídy by měli být zvlášť ve složce,ale nějak se nedaří ... :(
