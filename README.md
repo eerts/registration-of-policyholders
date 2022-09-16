@@ -1,1 +1,1 @@
-Projekt - registration-of-policyholde(evidence pojistníků)
+Projekt - registration of policyholde(evidence pojistníků)
