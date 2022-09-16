@@ -1,6 +1,6 @@
 from tridy.Evidence import Evidence
 
-#výběr volby
+#možnosti volby
 def main():
     evidence = Evidence()
     while True:
