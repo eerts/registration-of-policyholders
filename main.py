@@ -1,6 +1,6 @@
 from tridy.Evidence import Evidence
 
-#zobrazí menu s volbou
+#výběr volby
 def main():
     evidence = Evidence()
     while True:
