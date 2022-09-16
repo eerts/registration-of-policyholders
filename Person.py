@@ -1,5 +1,5 @@
 
-#osoba 
+#osoba - atributy
 class Person:
     def __init__(self, firstname, surname, age, number):
         self.firstname = firstname
