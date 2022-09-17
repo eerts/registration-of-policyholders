@@ -31,7 +31,7 @@ class Evidence:
                 else:
                     return choice
     
-        #přídá pojistníka
+        #přídání pojistníka
     def addPojistenec(self):
         firstname = input("Zadej jméno pojištěného:\n")
         surname = input("Zadej příjmení pojištěného:\n")
