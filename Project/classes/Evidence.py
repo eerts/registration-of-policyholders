@@ -4,10 +4,9 @@ class Evidence:
     
         #všechni pojištěnci
     def __init__(self):
-        
         self.policyholders = []
         self.policyholders.append(Person("Daniel", "Vajdík", 31, "606256089"))
-        self.policyholders.append(Person("Jan", "Novák", 00, "777555333"))
+        self.policyholders.append(Person("Jan", "Novák", 50, "777555333"))
 
         #menu
     def menu(self):
