@@ -14,11 +14,10 @@ def main():
             evidence.printEvidence()
         else:
             evidence.search()
-
-#vypíše "úvod"
+            
+#úvod   
 if __name__ == '__main__':
     print("----------------------------")
     print("Evidence pojištěných")
     print("----------------------------")
     main()
-    
